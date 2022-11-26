@@ -1,0 +1,720 @@
+@media only screen and (max-width: 1300px){
+	.running .help .slider-arrows {
+    display: flex;
+    justify-content: space-between;
+    gap: 34px;
+}
+.imangi-2{
+	visibility: hidden;
+}
+.textile{
+	margin-bottom: 10px;
+}
+.never{
+	position: absolute;
+	top: 88px;
+}
+.container .fool {
+    height: 482px;
+}
+.menu-item{
+	visibility: hidden;
+}
+.mixitup .textile p {
+    margin-top: 10px;
+    margin-left: -67px;
+}
+}
+@media only screen and (max-width: 1100px){
+.footer .widget-2 {
+    flex-basis: 50%;
+    display: grid;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    gap: 20px;
+    grid-template-columns: repeat(2 ,1fr);
+}
+.mixitup .textile p {
+    margin-top: 10px;
+    margin-left: -67px;
+}
+.imangi-2{
+	visibility: hidden;
+}
+.menu-item{
+	visibility: hidden;
+}
+.row .textile{
+    font-size: 25px;
+    color: lightskyblue;
+    margin-bottom: -200px;
+}
+.textile .never {
+    position: absolute;
+    top: 101px;
+}
+.container .fool {
+    height: 476px;
+}
+.mixitup .manage {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    margin-left: -92px;
+}
+.pinkman .social {
+    margin-top: 60px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
+}
+@media only screen and (max-width: 950px){
+	.bro{
+		visibility: hidden;
+	}
+.magnum{
+	margin-left: -44px;
+}
+.btn {
+    padding: 18px 26px;
+    background: green;
+    color: black;
+    box-shadow: 0 20px 35px rgb(241 165 1 / 15%);
+    border-radius: 5px;
+    font-size: 25px;
+    transition: all .3s linear;
+    margin-left: -40px;
+}
+	.footer {
+		flex-direction: column;
+	}
+	.footer .widget-2 {
+		flex-direction: column;
+		gap: 30px;
+	}
+	.footer_container {
+		background: grey;
+		margin-top: 0px;
+	}
+	.pinkman .social {
+		margin-top: 60px;
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 30px;
+	}
+	.hero_container .left_column {
+		padding-top: 60px;
+		margin-left: 63px;
+	}
+	.imangi-2{
+		visibility: hidden;
+	}
+	.comic .textile{
+		margin-top: 10px;
+	}
+	.imangi img {
+		height: 289px;
+		width: 427px;
+		margin-top: 16px;
+	}
+	.container .fool {
+		height: 472px;
+	}
+	.pinkman .social {
+		margin-top: 60px;
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 30px;
+	}
+	.comic .textile {
+		margin-top: -357px;
+	}
+	.mixitup .manage {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 20px;
+	}
+}
+@media only screen and (max-width: 950px){
+.mixitup .textile p {
+    margin-top: 10px;
+    margin-left: -67px;
+}
+}
+@media only screen and (max-width: 840px){
+	.imangi-2{
+		visibility: hidden;
+	}
+	.talk{
+		visibility: hidden;
+	}
+	.bro{
+		visibility: hidden;
+	}
+	.comic .imangi img {
+		margin: 30px -28px -6px -65px;
+	}
+	.comic .textile {
+		display: flex;
+		justify-content: center;
+	}
+	.comic .imangi img{
+		margin-bottom: 10px;
+	}
+	.row .textile p{
+		margin-top: 10px;
+	}
+	.mixitup .guide img {
+		border-radius: 50%;
+		width: 261px;
+	}
+	.comic .textile {
+		display: flex;
+		justify-content: center;
+		margin-top: -306px;
+	}
+	.mixitup .manage {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 20px;
+	}
+	.container .fool {
+		height: 473px;
+	}
+	.running{
+		visibility: hidden;
+	}
+
+	.footer {
+		flex-direction: column;
+	}
+	.footer .widget-2 {
+		flex-direction: column;
+		gap: 30px;
+	}
+	.footer_container {
+		background: grey;
+		margin-top: -538px;
+	}
+	.pinkman .social {
+		margin-top: 60px;
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 30px;
+	}
+}
+@media only screen and (max-width: 800px){
+	.mixitup .manage {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 20px;
+		margin-left: -56px;
+	}
+	.pinkman .social .socials {
+		background: oldlace;
+		border-radius: 36px;
+		padding: 30px;
+		text-align: center;
+		width: 335px;
+	}
+}
+@media only screen and (max-width: 590px){
+	.mixitup .guide img {
+		border-radius: 50%;
+		width: 200px;
+		height: 200px;
+		margin-bottom: 177px;
+		margin-left: -5px;
+	}
+	.row .textile p {
+    margin-top: 200px;
+    margin-left: 50px;
+}
+	.magnum{
+		text-align: center;
+		margin-left: 43px;
+	}
+	.cover {
+		margin-top: 60px;
+		margin-left: 45px;
+	}
+	.ban{
+		visibility: hidden;
+	}
+	.comic {
+		margin: -1px 0px 0px -81px;
+	}
+	.mixitup .imangi {
+		position: absolute;
+		top: -10px;
+		left: 0;
+		margin-top: 94px;
+	}
+	.comic .textile {
+		display: flex;
+		justify-content: center;
+		margin-top: -159px;
+		margin-left: -234px;
+	}
+	.mixitup .imangi {
+		position: absolute;
+		top: -10px;
+		left: 0;
+		margin-top: 53px;
+		margin-left: 88px;
+	}
+	.comic .imangi img {
+		margin-bottom: 10px;
+		height: 218px;
+		width: 393px;
+	}
+	.container .fool {
+		height: 508px;
+	}
+	.mixitup .manage {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 20px;
+		margin-left: -56px;
+	}
+	.pinkman .social {
+		margin-top: 60px;
+		display: grid;
+		grid-template-columns: repeat(1, 1fr);
+		gap: 30px;
+	}
+}
+@media only screen and (max-width: 480px){
+	.menu .scream .bro{
+		visibility: hidden;
+	}
+	.row .textile p {
+    justify-content: center;
+    text-align: center;
+    padding: 14px 68px;
+    position: absolute;
+    top: 280px;
+}
+	.hero .right_column .ban{
+		visibility: hidden;
+	}
+	.hero .left_column{
+		justify-content: center;
+	}
+	.menu .menu_btn_area{
+		display: flex;
+		gap: 20px;
+		align-items: center;
+		margin-top: -50px;
+		justify-content: start;
+	}
+	.menu .logo img{
+		width: 100px;
+	}
+	.menu .logo{
+		margin-left: -15px;
+	}
+	.menu_container .menu_btn_area a{
+		margin-left: 84px;
+		margin-top: -30px;
+	}
+	.hero_container .left_column{
+		flex-basis: 100%;
+		text-align: center;
+	}
+	.hero_container .left_column p{
+		text-align: center;
+	}
+	.hero_container .left_column h1{
+		text-align: center;
+	}
+	.hero_container .left_column h3{
+		text-align: center;
+	}
+	.container .fool{
+		height: 900px;
+	}
+	.pinkman .social{
+		margin-top: 60px;
+		display: grid;
+		grid-template-columns: repeat(1, 1fr);
+		gap: 30px;
+	}
+	.imangi-2{
+		display: flex;
+		justify-content: center;
+		margin-bottom: 10px;
+	}
+	
+	.pinkman .container{
+		margin-top:-565px;
+		padding: 0 10%;
+	}
+	.pinkman .social .socials {
+		background: oldlace;
+		border-radius: 36px;
+		padding: 30px;
+		text-align: center;
+		width: 312px;
+	}
+	.running{
+		visibility: hidden;
+		padding: 0;
+	}
+	.footer {
+		flex-direction: column;
+	}
+	.footer .widget-2 {
+		flex-direction: column;
+		gap: 30px;
+	}
+	.footer_container {
+		background: grey;
+		margin-top: -365px;
+	}
+	.hero_container .left_column {
+		padding-top: 60px;
+		margin-left: 63px;
+	}
+
+	.mix{
+		margin: 11px 10px 0px -106px;
+	}
+	.imangi-2 img {
+		visibility: hidden;
+}
+.mixitup .head-sir {
+    text-align: center;
+    margin-bottom: 24px;
+    margin-left: 166px;
+}
+.mixitup .semi {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+    margin-left: 174px;
+}
+.hero_container .left_column {
+    padding-top: 60px;
+    margin-left: 36px;
+}
+.row .textile p {
+   margin-top: 21px;
+    margin-left: 10px;
+    justify-content: center;
+    text-align: center;
+    padding: 14px 68px;
+}
+.pinkman{
+	margin-top: 492px;
+}
+.works{
+	margin-left: 10px;
+}
+.bucky{
+	visibility: hidden;
+	overflow: hidden;
+}
+.controls .love{
+	visibility: hidden;
+}
+.controls button{
+display: flex;
+    justify-content: center;
+    margin-bottom: 50px
+}
+.fool{
+	position: relative;
+}
+.fool .controls {
+    position: absolute;
+    top: -65px;
+    left: 120px;
+    gap: 10px;
+}
+.mixitup .manage {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin-left: 80px;
+}
+.comic .textile {
+    display: flex;
+    justify-content: center;
+    margin-top: -159px;
+    margin-left: -157px;
+}
+.container .fool {
+    height: 621px;
+}
+}
+@media only screen and (max-width: 420px){
+	.imangi-2 img{
+		visibility: hidden;
+	}
+	.controls .love{
+	visibility: hidden;
+}
+}
+@media only screen and (max-width: 395px){
+	.menu .scream .bro{
+		visibility: hidden;
+	}
+	.pinkman {
+    margin-top: 492px;
+}
+.menu-item{
+	visibility: visible;
+}
+	.hero .right_column .ban{
+		visibility: hidden;
+	}
+	.hero .left_column{
+		justify-content: center;
+	}
+	.menu .menu_btn_area{
+		display: flex;
+		gap: 20px;
+		align-items: center;
+		margin-top: -50px;
+		justify-content: start;
+	}
+	.menu .logo img{
+		width: 100px;
+	}
+	.menu .logo{
+		margin-left: -15px;
+	}
+	.menu_container .menu_btn_area a{
+		margin-left: 84px;
+		margin-top: -30px;
+	}
+	.hero_container .left_column{
+		flex-basis: 100%;
+		text-align: center;
+	}
+	.hero_container .left_column p{
+		text-align: center;
+	}
+	.hero_container .left_column h1{
+		text-align: center;
+	}
+	.hero_container .left_column h3{
+		text-align: center;
+	}
+	.imangi img{
+		width: 100px;
+		height: 100px;
+		visibility: hidden;
+	}
+	.mixitup .imangi{
+		margin-right: 10px;
+	}
+	.container .fool{
+		height: 900px;
+	}
+	.pinkman .social{
+		margin-top: 60px;
+		display: grid;
+		grid-template-columns: repeat(1, 1fr);
+		gap: 30px;
+	}
+	.imangi-2{
+		display: flex;
+		justify-content: center;
+		margin-bottom: 10px;
+	}
+	.imangi-2 img{
+		width: 300px
+	}
+	.comic .textile{
+		flex-basis: 100%;
+		justify-content: center;
+		display: flex;
+		align-items: center;
+		text-align: center;
+		margin-left: 15px;
+	}
+	.comic .column_half{
+		flex-basis: 100%;
+		display: contents;
+	}
+	.mixitup .manage {
+		display: grid;
+		grid-template-columns: repeat(1, 1fr);
+		gap: 40px;
+	}
+	.container .guide{
+		visibility: hidden;
+	}
+	.bucky .column_half{
+		flex-basis: 100%;
+		display: contents;
+	}
+	.bucky .works{
+		flex-basis: 100%;
+		justify-content: center;
+		display: flex;
+		align-items: center;
+		text-align: center;
+		margin-right: 15px;
+	}
+	.bucky .works .accurate{
+		margin-right: 50px;
+	}
+	.hidden{
+		visibility: hidden;
+	}
+	.sir-er .textile{
+		flex-basis: 100%;
+		justify-content: center;
+		display: flex;
+		align-items: center;
+		text-align: center;
+		margin-left: -382px;
+	}
+	.sir-er .column_half {
+		flex-basis: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+	}
+	.imangi-3{
+		display: flex;
+		justify-content: center;
+		margin-bottom: 10px;
+	}
+	.imangi-3 img{
+		width: 300px;
+		border-radius: 50%;
+	}
+	.sorry .talk{
+		text-align: center;
+		display: flex;
+		justify-content: center;
+		position: absolute;
+		font-size: 25px;
+	}
+	.bucky{
+		width: 100px;
+	}
+	.talk p{
+		color: black;
+	}
+	.pinkman .container{
+		margin-top:-565px;
+		padding: 0 10%;
+	}
+	.mixitup .semi {
+		display: flex;
+		justify-content: center;
+		margin-bottom: 10px;
+	}
+	.pinkman .social .socials {
+		background: oldlace;
+		border-radius: 36px;
+		padding: 30px;
+		text-align: center;
+		width: 312px;
+	}
+	.running{
+		visibility: hidden;
+		padding: 0;
+	}
+	.footer {
+		flex-direction: column;
+	}
+	.footer .widget-2 {
+		flex-direction: column;
+		gap: 30px;
+	}
+	.footer_container {
+		background: grey;
+    margin-top: -942px;
+	}
+	.hero_container .left_column {
+		padding-top: 60px;
+    margin-left: 22px;
+	}
+	.mix{
+		visibility: hidden;
+	}
+	.pinkman .container {
+    margin-top: -565px;
+    padding: 0 10%;
+    position: absolute;
+    top: 1627px;
+}
+.pinkman {
+    margin-top: 492px;
+}
+
+}
+@media only screen and (max-width: 290px){
+	.menu .logo img {
+		width: 80px;
+		height: 80px;
+	}
+	.magnum {
+    text-align: center;
+    margin-left: 0px;
+}
+.cover {
+    margin-top: 60px;
+    margin-left: 110px;
+}
+.pinkman .social .socials {
+    background: oldlace;
+    border-radius: 36px;
+    padding: 30px;
+    text-align: center;
+    width: 254px;
+}
+	.menu_container .menu_btn_area a {
+		margin-left: 75px;
+		margin-top: -22px;
+		padding: 10px;
+	}
+	.hold{
+		margin-left: -46px;
+		padding: 10px;
+	}
+	.menu-item .sub {
+		position: absolute;
+		top: 58px;
+		left: -108px;
+		width: 200px;
+		height: 200px;
+		overflow: hidden;
+		background: black;
+		padding: 20px;
+		border: 1px solid black;
+		transition: all .3s linear;
+		opacity: 0;
+		visibility: hidden;
+	}
+	.hero_button_area{
+		padding: 10px;
+	}
+	.hero_btn_area{
+		margin-left: -70px;
+
+	}
+	.mix{
+		visibility: hidden;
+	}
+	.pinkman{
+		position: relative;
+	}
+	.pinkman .container{
+		position: absolute;
+		top: -842px;
+		left: 0;
+	}
+	.footer_container {
+		background: grey;
+		margin-top: -931px;
+	}
+}
